@@ -1,5 +1,7 @@
 
 ![alt text](screenshot.png "beskrivelse af billede") 
+https://rawgit.com/Cathrinebp/mini_exes/master/mini_ex2/empty-example/index.html
+
 
 My program is a drawing of Simba. For this drawing I have created my own shapes, using beginShape, endShape and curveVertex. 
 Before starting the project I used some time figuring out what i wanted to draw, and after some time i decided on Simba, because I knew it would be time consuming, and it would challenge me in different ways. 
