@@ -1,4 +1,5 @@
 
+https://rawgit.com/Cathrinebp/mini_exes/master/mini_ex5/empty-example/index.html
 
 I don’t know how much of a game my work is. It wasn’t my intention to create a game, but I wanted to  create something were my focus was on creating and understanding classes. 
 The background of my work is black, but when you click on the background a circle in a random size and color appears. Every time you click, a new circle appear. All the circles move the same way, and in the same tempo. When the circles hit the end of the screen, they appear again, and this time they appear in a total random place. 
