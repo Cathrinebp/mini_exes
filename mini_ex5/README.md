@@ -1,3 +1,4 @@
+![alt text](screenshot.png "beskrivelse af billede") 
 
 https://rawgit.com/Cathrinebp/mini_exes/master/mini_ex5/empty-example/index.html
 
