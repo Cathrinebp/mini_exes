@@ -1,5 +1,7 @@
 ![alt text](screenshot.png "beskrivelse af billede")  
 
+https://rawgit.com/Cathrinebp/mini_exes/master/mini_ex6/empty-example/index.html
+
 Rules: 
 - create two ellipses and a line and make them rotate, so they create an illusion of the sun
 - Change the color to red when the mouse is pressed 
