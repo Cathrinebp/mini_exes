@@ -6,6 +6,8 @@ I made this program in collaboration with Mathilde Friis Nielsen
 
 https://rawgit.com/Cathrinebp/mini_exes/master/mini_ex8/empty-example/index.html
 
+The link doesnt work correctly 
+
 ## About the program
 
 Our program consist of two circles; one circle informing the user about the temperature and the other circle informing the user about the humidity. The size of the circles is controlled by the value of each parameter. So for the temperature, the bigger the circle is, the hotter the temperature is. 
