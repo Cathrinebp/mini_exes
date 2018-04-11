@@ -3,7 +3,7 @@
 I don’t really think that any of my codes are that complex. But i choose to make a flowchart illustrating my code for [Mini_ex5](https://github.com/Cathrinebp/mini_exes/tree/master/mini_ex5)
 I was a bit difficult to decide on what i wanted to include, and in how i wanted to structure it. I am still not sure if I think that my flowchart illustrates my program in the best way possible. I am not sure about the last part of the flowchart, but because I am the creator I fully understand it, I am just not sure if everyone else would. 
 
-![alt text](mini__ex5_flowchart.png "beskrivelse af billede")  
+![alt text](miniex5.png "beskrivelse af billede")  
 
 
 # Final project flowchart 
