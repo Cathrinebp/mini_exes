@@ -31,5 +31,7 @@ In the other idea about data capture, the technical challenge might be to get ou
 I think that the role of the flowchart in the to projects is very different. The flowchart for my mini_ex5 is mostly aimed towards the people who hasn’t programmed the program, but are interested in how it works. The flowchart helps me to reflect on what I made my program do, and how I told it to execute the different functions, but this flowchart doesn’t help me create a program, as the program was already created when I made it. 
 The role of the other flowchart was to help my group to structure the way we want our program to work, and this can help us when we start to program, because we already have the same visual look on how our program is going to function. 
 
-## Algorithms 
+## Algorithms in a wider digital context
+As our everyday life is highly influenced by digital artifacts and software, it is automaticly also influenced by different algorithms. Algorithms is some kind of system that solves problems and executes actions in the best and smartest way possible. 
+I think that there are alot of people that dont know what an algorithm is, and what it does. Therefor I think that a flowchart helps the user understand how a program is created, and what algorithms the program consist of. 
 
